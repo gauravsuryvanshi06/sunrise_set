@@ -1,10 +1,11 @@
 # sunrise_set 🌅
 ### COMPUTER graphics C++
 
-## linux commands
-
-## `git clone https://github.com/G-5256/sunrise_set.git`
-
+# linux commands
+### open terminal (ctr+alt+t)
+`mkdir openGL`
+`cd openGL`
+`git clone https://github.com/G-5256/sunrise_set.git`<br>
 `g++ sunrise_set.cpp -o firstOpenApp -lglut -lGLU -lGL`<br>
 `./a.out`
 
