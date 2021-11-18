@@ -7,7 +7,9 @@
 ### [copy-paste]
 `mkdir openGL`<br><br>
 `cd openGL`<br><br>
+
 `git clone https://github.com/G-5256/sunrise_set.git`<br><br>
+`cd sunrise_set`<br><br>
 `g++ sunrise_set.cpp -o firstOpenApp -lglut -lGLU -lGL`<br><br>
 `./a.out`<br><hr>
 
